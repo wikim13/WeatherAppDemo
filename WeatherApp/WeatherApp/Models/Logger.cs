@@ -13,7 +13,7 @@ namespace WeatherApp.Models
     {
         //Our single instance of the singleton
         private static Logger instance = null;
-        private static string FileName = ConfigurationManager.AppSettings["CityInputSource"].ToString();
+        private static string FileName = ConfigurationManager.AppSettings["Loglocation"].ToString();
         //Private constructor to deny instance creation of this class from outside
         private Logger() { }
 
