@@ -1,0 +1,11 @@
+{"coord":{"lon":13.41,"lat":52.52},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],"base":"stations","main":{"temp":15.6,"pressure":1017,"humidity":77,"temp_min":13.89,"temp_max":17.22},"visibility":10000,"wind":{"speed":2.6,"deg":300},"clouds":{"all":75},"dt":1563151636,"sys":{"type":1,"id":1275,"message":0.0104,"country":"DE","sunrise":1563159659,"sunset":1563218589},"id":2950159,"name":"Berlin","cod":200}
+{"coord":{"lon":13.41,"lat":52.52},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],"base":"stations","main":{"temp":14.77,"pressure":1016,"humidity":72,"temp_min":13.0,"temp_max":16.11},"visibility":10000,"wind":{"speed":2.1,"deg":300},"clouds":{"all":75},"dt":1563156465,"sys":{"type":1,"id":1275,"message":0.0091,"country":"DE","sunrise":1563159659,"sunset":1563218589},"id":2950159,"name":"Berlin","cod":200}
+{"coord":{"lon":13.41,"lat":52.52},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],"base":"stations","main":{"temp":14.74,"pressure":1016,"humidity":72,"temp_min":13.0,"temp_max":16.11},"visibility":10000,"wind":{"speed":2.1,"deg":300},"clouds":{"all":75},"dt":1563157094,"sys":{"type":1,"id":1275,"message":0.0084,"country":"DE","sunrise":1563159659,"sunset":1563218589},"id":2950159,"name":"Berlin","cod":200}
+{"coord":{"lon":13.41,"lat":52.52},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],"base":"stations","main":{"temp":14.74,"pressure":1016.0,"humidity":72.0,"temp_min":13.0,"temp_max":16.11},"visibility":10000,"wind":{"speed":2.1,"deg":300.0},"clouds":{"all":75},"dt":1563157094,"sys":{"type":1,"id":1275,"message":0.0084,"country":"DE","sunrise":1563159659,"sunset":1563218589},"id":2950159,"name":"Berlin","cod":200}
+{"coord":{"lon":13.41,"lat":52.52},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],"base":"stations","main":{"temp":14.74,"pressure":1016.0,"humidity":72.0,"temp_min":13.0,"temp_max":16.11},"visibility":10000,"wind":{"speed":2.1,"deg":300.0},"clouds":{"all":75},"dt":1563157094,"sys":{"type":1,"id":1275,"message":0.0084,"country":"DE","sunrise":1563159659,"sunset":1563218589},"id":2950159,"name":"Berlin","cod":200}
+test text
+test text
+test text
+test text
+test text
+test text

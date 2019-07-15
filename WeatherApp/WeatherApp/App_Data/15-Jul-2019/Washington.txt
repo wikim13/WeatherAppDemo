@@ -1,0 +1,5 @@
+null
+null
+null
+{"coord":{"lon":-82.74,"lat":33.74},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"base":"stations","main":{"temp":25.82,"pressure":1020.0,"humidity":83.0,"temp_min":24.44,"temp_max":28.0},"visibility":16093,"wind":{"speed":2.26,"deg":295.297},"clouds":{"all":1},"dt":1563157021,"sys":{"type":1,"id":4414,"message":0.0079,"country":"US","sunrise":1563100230,"sunset":1563151360},"id":4229546,"name":"Washington","cod":200}
+{"coord":{"lon":-82.74,"lat":33.74},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"base":"stations","main":{"temp":26.25,"pressure":1021.0,"humidity":78.0,"temp_min":24.44,"temp_max":28.89},"visibility":16093,"wind":{"speed":2.6,"deg":300.0},"clouds":{"all":1},"dt":1563157791,"sys":{"type":1,"id":3930,"message":0.0109,"country":"US","sunrise":1563100230,"sunset":1563151360},"id":4229546,"name":"Washington","cod":200}
