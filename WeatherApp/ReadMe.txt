@@ -12,3 +12,5 @@ E.G
 	d) add the API key at key APIKey
 E.G
     <add key="APIKey" value="aa69195559bd4f88d79f9aadeb77a8f6" />
+
+changes
